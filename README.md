@@ -1,4 +1,6 @@
 -- This extension for create a custom field "Mobile Number" in registration form 
+
+
 Installation Steps
 
 Please follow these steps to install the Custom Attribute in registration form.
