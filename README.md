@@ -7,7 +7,7 @@ Step 1: Download module from https://github.com/letoncse7/magento2-Custom-Attrib
 
 Step 2: Log in to your server using FTP or Cpanel.
 
-Step 3: Upload Fastbazzar (Magento 2 Payment Module) inside of app/code dirrectory.
+Step 3: Upload Fastbazzar  inside of app/code dirrectory.
 
 Step 4: Now Run the command line and go to your project root directory.
 
